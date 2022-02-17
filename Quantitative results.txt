@@ -1,0 +1,24 @@
+HOG-MLP:
+fd time - 57s
+training time - 50s
+testing time - 14s
+total time - 121s
+accuracy - 0.59
+model size - 940 KB
+
+HOG-SVM:
+fd time - 56s
+training time - 13s
+testing time - 18s
+total time - 87s
+accuracy - 0.67
+model size - 17,293 KB
+
+SIFT-SVM:
+fd time - 19s
+histogram time - 88s
+training time - 6s
+testing time - 8s
+total time - 121s
+accuracy - 0.50
+model size - 7,543 KB
